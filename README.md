@@ -1,2 +1,2 @@
-# coupling_notes
-hand-written notes for coupling
+# Coupling notes
+My hand-written notes for coupling. 
